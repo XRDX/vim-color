@@ -16,7 +16,7 @@ if version > 580
 	endif
 endif
 
-let colors_name = "xrd-color"
+let colors_name = "xrdcolor"
 
 
 " General colors
