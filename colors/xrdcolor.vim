@@ -1,11 +1,6 @@
 " Vim color file
-" Original Maintainer:  Lars H. Nielsen (dengmao@gmail.com)
-" Last Change:  2010-07-23
-"
-" Modified version of wombat for 256-color terminals by
-"   David Liang (bmdavll@gmail.com)
-" based on version by
-"   Danila Bespalov (danila.bespalov@gmail.com)
+" Last Change:  2016-01-21
+" Modified by: Qingyu Wang(wangqingyu.xrd@gmail.com)
 
 set background=dark
 
@@ -20,8 +15,8 @@ let colors_name = "xrdcolor"
 
 
 " General colors
-hi Normal		ctermfg=252		ctermbg=234		cterm=none		guifg=#e3e0d7	guibg=#242424	gui=none
-hi Cursor		ctermfg=234		ctermbg=228		cterm=none		guifg=#242424	guibg=#eae788	gui=none
+hi Normal		ctermfg=252		ctermbg=232		cterm=none		guifg=#e3e0d7	guibg=#242424	gui=none
+hi Cursor		ctermfg=234		ctermbg=234		cterm=none		guifg=#242424	guibg=#eae788	gui=none
 hi Visual		ctermfg=251		ctermbg=239		cterm=none		guifg=#c3c6ca	guibg=#554d4b	gui=none
 hi VisualNOS	ctermfg=251		ctermbg=236		cterm=none		guifg=#c3c6ca	guibg=#303030	gui=none
 hi Search		ctermfg=177		ctermbg=241		cterm=none		guifg=#d787ff	guibg=#636066	gui=none
